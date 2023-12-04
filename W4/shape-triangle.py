@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+
+i = 1
+n = int(input())
+
+while i <= n:
+  print("*" * i)
+  i += 1
